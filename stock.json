@@ -19,7 +19,6 @@
     "Nord VPN": {
       "price": 3,
       "Account": [
-        "norduser:pass123",
         "norduser2:pass456"
       ]
     },
